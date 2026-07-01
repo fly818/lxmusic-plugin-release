@@ -1,0 +1,7 @@
+{
+  "name": "洛雪插件",
+  "includes": [],
+  "plugins": [
+    "https://raw.githubusercontent.com/fly818/lxmusic-plugin-release/main/plugin.json"
+  ]
+}
