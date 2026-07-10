@@ -5,7 +5,7 @@
   "description": "洛雪音源 - 多平台音乐搜索、歌单管理、音源管理",
   "author": "LX Team",
   "homepage": "",
-  "license": "Apache-2.0",
+  "license": "",
   "entryPath": "lxmusic",
   "icon": "icon.svg",
   "main": "main.js",
